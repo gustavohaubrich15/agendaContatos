@@ -1,0 +1,12 @@
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\OO\Exercicio2AgendaContatos\Exercicio2AgendaContatos\bin\Debug\netcoreapp3.1\Exercicio2AgendaContatos.exe
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\OO\Exercicio2AgendaContatos\Exercicio2AgendaContatos\bin\Debug\netcoreapp3.1\Exercicio2AgendaContatos.deps.json
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\OO\Exercicio2AgendaContatos\Exercicio2AgendaContatos\bin\Debug\netcoreapp3.1\Exercicio2AgendaContatos.runtimeconfig.json
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\OO\Exercicio2AgendaContatos\Exercicio2AgendaContatos\bin\Debug\netcoreapp3.1\Exercicio2AgendaContatos.runtimeconfig.dev.json
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\OO\Exercicio2AgendaContatos\Exercicio2AgendaContatos\bin\Debug\netcoreapp3.1\Exercicio2AgendaContatos.dll
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\OO\Exercicio2AgendaContatos\Exercicio2AgendaContatos\bin\Debug\netcoreapp3.1\Exercicio2AgendaContatos.pdb
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\OO\Exercicio2AgendaContatos\Exercicio2AgendaContatos\obj\Debug\netcoreapp3.1\Exercicio2AgendaContatos.csproj.CoreCompileInputs.cache
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\OO\Exercicio2AgendaContatos\Exercicio2AgendaContatos\obj\Debug\netcoreapp3.1\Exercicio2AgendaContatos.AssemblyInfoInputs.cache
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\OO\Exercicio2AgendaContatos\Exercicio2AgendaContatos\obj\Debug\netcoreapp3.1\Exercicio2AgendaContatos.AssemblyInfo.cs
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\OO\Exercicio2AgendaContatos\Exercicio2AgendaContatos\obj\Debug\netcoreapp3.1\Exercicio2AgendaContatos.dll
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\OO\Exercicio2AgendaContatos\Exercicio2AgendaContatos\obj\Debug\netcoreapp3.1\Exercicio2AgendaContatos.pdb
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\OO\Exercicio2AgendaContatos\Exercicio2AgendaContatos\obj\Debug\netcoreapp3.1\Exercicio2AgendaContatos.genruntimeconfig.cache
